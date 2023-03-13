@@ -1,0 +1,9 @@
+name: StatSystem
+version: 1.0
+main: kr.bizak.statsystem.StatSystem
+api-version: 1.19
+commands:
+  stat:
+    aliases: stat
+    description: stat
+    usage: stat
